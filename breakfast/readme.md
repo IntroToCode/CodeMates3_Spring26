@@ -18,7 +18,7 @@
 <!-- Note the fields in the markdown table -->
 
 ### Ingredients:
-- [ ] add ingredient here
+- [ ] Add ingredient here
       
 <!-- List every ingredient -->
 
