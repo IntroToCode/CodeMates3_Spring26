@@ -16,6 +16,7 @@ Crispy homemade pizza topped with fresh basil pesto, mozzarella, and cherry toma
 | Servings | 2–3 |
 | Difficulty | Easy |
 | Tags | vegetarian, Italian, quick, dinner |
+| Spice Level | 🌶️ (Mild) |
 
 ---
 
