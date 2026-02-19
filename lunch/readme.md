@@ -30,7 +30,7 @@
 <!-- Each step should be a complete action. Assume the reader has never made this before. -->
 
 ### Notes:
-
+- Yummy!
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
 ### Author(s):
