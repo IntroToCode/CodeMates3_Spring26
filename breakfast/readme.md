@@ -8,7 +8,7 @@
 
 | Field | Info |
 |-------|------|
-| Prep Time | e.g. 15 minutes |
+| Prep Time | e.g. 15 minutes | 
 | Cook Time | e.g. 30 minutes |
 | Total Time | e.g. 45 minutes |
 | Servings | e.g. 4 |
