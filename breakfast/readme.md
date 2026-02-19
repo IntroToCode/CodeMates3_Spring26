@@ -22,6 +22,7 @@ This dish is native to California. It's a light yet substantial way to start the
 - 1 tbsp butter
 - 1 tbsp olive oil
 - Chili-Lime Seasoning from Trader Joe's (optional)
+- [ ] Add ingredient here
       
 ### Steps for preparation:
 
