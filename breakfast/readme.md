@@ -1,36 +1,41 @@
-# Replace with recipe name
+# Avocado Toast
 
-## Description
+## Simple, classic, and healthy
 
-<!-- 1-2 sentences about the dish. Where does it come from? What makes it special? -->
+This dish is native to California. It's a light yet substantial way to start the day, with a good balance of nutrients. Also, it's quick and convenient for busy mornings.
 
 ## Stats
 
 | Field | Info |
 |-------|------|
-| Prep Time | e.g. 15 minutes |
-| Cook Time | e.g. 30 minutes |
-| Total Time | e.g. 45 minutes |
-| Servings | e.g. 4 |
-| Difficulty | Easy / Medium / Hard |
-| Tags | e.g. vegetarian, quick, make-ahead, dessert |
-
-<!-- Note the fields in the markdown table -->
+| Prep Time | 10 minutes |
+| Cook Time | 5 minutes |
+| Total Time | 15 minutes |
+| Servings | 1 |
+| Difficulty | Easy |
+| Tags | vegetarian, quick, healthy |
 
 ### Ingredients:
+- 1 ripe avocado
+- 1 slice of sourdough bread
+- 1 egg
+- 1 tbsp butter
+- 1 tbsp olive oil
+- Chili-Lime Seasoning from Trader Joe's (optional)
 - [ ] Add ingredient here
       
-<!-- List every ingredient -->
-
 ### Steps for preparation:
 
-1. Step one.
-2. Step two.
-3. Step three.
-<!-- Each step should be a complete action. Assume the reader has never made this before. -->
+1. Prepare avocado: cut avocado in half, and remove pit. Use a spoon to remove avocado from skin. Slice into 1/4 inch pieces, lengthwise.
+2. Toast bread: use a toaster to toast bread. 
+3. Cook egg: in a pan, melt butter, and crack egg into pan. Cook for 5 minutes, until over-easy.
+4. Assemble toast: lay slices of avocado over toasted bread. Drizzle olive oil over avocado. Place egg on top, and season with chili-lime seasoning (optional). 
 
 ### Notes:
 
-<!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
+Potential variations (to taste): 
+- Egg can be scrambled instead of fried
+- Add chili flakes for more spice
+- Sesame seeds can add a nice texture
 
-### Author(s):
+### Author(s): James
