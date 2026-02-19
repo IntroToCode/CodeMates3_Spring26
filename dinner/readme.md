@@ -60,6 +60,7 @@ Remove from the oven, add fresh basil and grated Parmesan if desired. Slice and 
 - For a crispier crust, pre-bake the dough for 3–4 minutes before adding toppings.
 - You can add burrata after baking for a creamier finish.
 - Works great with whole wheat dough as well.
+- Yummy!
 
 ---
 
