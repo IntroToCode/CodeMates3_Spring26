@@ -4,6 +4,9 @@
 ## Description
 Crispy homemade pizza topped with fresh basil pesto, mozzarella, and cherry tomatoes. Simple, flavorful, and perfect for a quick dinner.
 
+## Suggested Beverage Pairing
+Pair with a crisp white wine, specifically Sauvignon Blanc or Pinot Grigio, to balance the richness of the dish and enhance the herbal notes.
+
 ---
 
 ## Stats
