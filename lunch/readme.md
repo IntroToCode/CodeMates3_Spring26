@@ -6,14 +6,14 @@
 
 ## The dish comes from Berkeley's beloved salad and soup joint, Mezzo. Attached the bar, Raleigh's, Mezzo is an unlikely place for a solid quick bite. 
 
-Field	Info
-Prep Time	20 minutes
-Cook Time	15 minutes (for bacon & chicken, if not pre-cooked)
-Total Time	35 minutes
-Servings	4 large salads
-Difficulty	Easy
-Tags	quick, high-protein, make-ahead, california-style, salad
-<!-- Note the fields in the markdown table -->
+| Field | Info |
+|---|---|
+| Prep Time | 20 minutes |
+| Cook Time | 15 minutes (for bacon & chicken, if not pre-cooked) |
+| Total Time | 35 minutes |
+| Servings | 4 large salads |
+| Difficulty | Easy |
+| Tags | quick, high-protein, make-ahead, california-style, salad |
 Ingredients:
 Salad Base
 
@@ -98,6 +98,6 @@ For a lighter version: Use all Greek yogurt and reduce the mayo by half.
 Serving style: This is meant to be a full meal salad, not a side.
 
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
-Author(s):
+Author(s): Jimmy Lin
 
 Recreated for home kitchens by ChatGPT, inspired by Berkeley deli tradition.
