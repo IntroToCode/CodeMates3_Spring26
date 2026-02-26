@@ -4,6 +4,9 @@
 ## Description
 Crispy homemade pizza topped with fresh basil pesto, mozzarella, and cherry tomatoes. Simple, flavorful, and perfect for a quick dinner.
 
+## Suggested Beverage Pairing
+Pair with a cold Peroni, to maximize your refreshment as you eat your hot pizza.
+
 ---
 
 ## Stats
@@ -16,6 +19,7 @@ Crispy homemade pizza topped with fresh basil pesto, mozzarella, and cherry toma
 | Servings | 2–3 |
 | Difficulty | Easy |
 | Tags | vegetarian, Italian, quick, dinner |
+| Spice Level | 🌶️ (Mild) |
 
 ---
 
@@ -60,6 +64,7 @@ Remove from the oven, add fresh basil and grated Parmesan if desired. Slice and 
 - For a crispier crust, pre-bake the dough for 3–4 minutes before adding toppings.
 - You can add burrata after baking for a creamier finish.
 - Works great with whole wheat dough as well.
+- Yummy!
 
 ---
 
