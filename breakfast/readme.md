@@ -14,6 +14,7 @@ This dish is native to California. It's a light yet substantial way to start the
 | Servings | 1 |
 | Difficulty | Easy |
 | Tags | vegetarian, quick, healthy |
+| Spice Level | 🌶️ (Mild) |
 
 ### Ingredients:
 - 1 ripe avocado
@@ -22,7 +23,6 @@ This dish is native to California. It's a light yet substantial way to start the
 - 1 tbsp butter
 - 1 tbsp olive oil
 - Chili-Lime Seasoning from Trader Joe's (optional)
-- [ ] Add ingredient here
       
 ### Steps for preparation:
 
