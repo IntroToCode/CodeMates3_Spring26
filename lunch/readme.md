@@ -87,9 +87,13 @@ This salad is best eaten fresh while the lettuce is crisp and the herbs are vibr
 <!-- Each step should be a complete action. Assume the reader has never made this before. -->
 Notes:
 
-### Notes:
-- Yummy!
-<!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
+The fine chop matters. The signature texture comes from cutting everything small so the dressing distributes evenly in every bite.
+
+Anchovies don’t make it fishy. They dissolve into the dressing and provide the classic Green Goddess umami backbone.
+
+Make-ahead tip: Dressing can be made up to 3 days in advance and stored in the refrigerator. Stir before using.
+
+Protein swaps: Grilled salmon, shrimp, or chickpeas work well instead of chicken.
 
 Extra crunch option: Add sliced cucumbers or sunflower seeds.
 
