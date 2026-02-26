@@ -14,6 +14,7 @@ This dish is native to California. It's a light yet substantial way to start the
 | Servings | 1 |
 | Difficulty | Easy |
 | Tags | vegetarian, quick, healthy |
+| Spice Level | 🌶️ (Mild) |
 
 ### Ingredients:
 - 1 ripe avocado
