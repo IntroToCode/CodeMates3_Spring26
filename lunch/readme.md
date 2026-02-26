@@ -1,21 +1,22 @@
-# Replace with recipe name
+# Mezzo Salad
 
 ## Description
 
-<!-- 1-2 sentences about the dish. Where does it come from? What makes it special? -->
+Savor a Berkeley staple while meeting your health goals! Fresh, delicious, and nutritious.
 
 ## Stats
 
-Field	Info
-Prep Time	25 minutes
-Cook Time	15 minutes (for bacon & chicken, if not pre-cooked)
-Total Time	35 minutes
-Servings	8 large salads
-Difficulty	Easy
-Tags	quick, high-protein, make-ahead, california-style, salad
-<!-- Note the fields in the markdown table -->
-Ingredients:
-Salad Base
+| Field | Info |
+|-------|------|
+| Prep Time | 25 min |
+| Cook Time | 15 min |
+| Total Time | 45 min |
+| Servings | 8 |
+| Difficulty | Easy |
+| Tags | vegetarian, quick |
+
+## Ingredients:
+### Salad Base
 
  4 large heads romaine lettuce, finely chopped
 
@@ -31,7 +32,7 @@ Salad Base
 
  1/2 small red onion, very thinly sliced
 
-Green Goddess Dressing
+### Green Goddess Dressing
 
  1 cup mayonnaise
 
@@ -56,28 +57,37 @@ Green Goddess Dressing
  1 teaspoon black pepper
 
  2-6 tablespoons water (to thin)
-| Field | Info |
-|-------|------|
-| Prep Time | e.g. 15 minutes |
-| Cook Time | e.g. 30 minutes |
-| Total Time | e.g. 45 minutes |
-| Servings | e.g. 4 |
-| Difficulty | Easy / Medium / Hard |
-| Tags | e.g. vegetarian, quick, make-ahead, dessert |
 
 <!-- Note the fields in the markdown table -->
 
-### Ingredients:
-- [ ] add ingredient here
-      
-<!-- List every ingredient -->
-
 ### Steps for preparation:
 
-1. Step one.
-2. Step two.
-3. Step three.
-<!-- Each step should be a complete action. Assume the reader has never made this before. -->
+1. Cook components if needed.
+Cook bacon until crisp, then drain and crumble. If starting with raw chicken, season lightly with salt and pepper, cook through, and let cool before dicing.
+
+2. Prepare the Green Goddess dressing.
+In a blender or food processor, combine mayonnaise, Greek yogurt, parsley, basil, chives, anchovies, garlic, lemon juice, olive oil, salt, and pepper. Blend until completely smooth and bright green.
+
+3. Adjust dressing consistency.
+Add water 1 tablespoon at a time, blending between additions, until the dressing is creamy but pourable (similar to ranch).
+
+4. Finely chop the romaine.
+Stack leaves and slice lengthwise, then crosswise into very small pieces. The texture should be closer to a chopped slaw than a leafy salad—this is key to the authentic style.
+
+5. Assemble the salad base.
+In a large bowl, combine chopped romaine, chicken, tomatoes, red onion, and avocado.
+
+6. Dress generously.
+Add dressing a few spoonfuls at a time and toss thoroughly so every piece is coated without becoming soggy.
+
+7. Finish with toppings.
+Add crumbled bacon and grated Parmesan, then toss lightly again.
+
+8. Serve immediately.
+This salad is best eaten fresh while the lettuce is crisp and the herbs are vibrant.
+
+
+### Notes:
 
 The fine chop matters. The signature texture comes from cutting everything small so the dressing distributes evenly in every bite.
 
@@ -92,9 +102,8 @@ Extra crunch option: Add sliced cucumbers or sunflower seeds.
 For a lighter version: Use all Greek yogurt and reduce the mayo by half.
 
 Serving style: This is meant to be a full meal salad, not a side.
-### Notes:
 
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
-### Author(s):
+### Author(s): James, Vic, Rena, Jimmy, Martha
 
