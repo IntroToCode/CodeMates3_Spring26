@@ -10,52 +10,52 @@ Field	Info
 Prep Time	20 minutes
 Cook Time	15 minutes (for bacon & chicken, if not pre-cooked)
 Total Time	35 minutes
-Servings	4 large salads
+Servings	8 large salads
 Difficulty	Easy
 Tags	quick, high-protein, make-ahead, california-style, salad
 <!-- Note the fields in the markdown table -->
 Ingredients:
 Salad Base
 
- 2 large heads romaine lettuce, finely chopped
+ 4 large heads romaine lettuce, finely chopped
 
- 2 cups cooked chicken breast (grilled, roasted, or rotisserie), diced small
+ 4 cups cooked chicken breast (grilled, roasted, or rotisserie), diced small
 
- 1 cup cherry tomatoes, halved
+ 2 cup cherry tomatoes, halved
 
- 1 ripe avocado, cubed
+ 2 ripe avocado, cubed
 
- 4 slices bacon, cooked and crumbled (optional but traditional)
+ 8 slices bacon, cooked and crumbled (optional but traditional)
 
- ½ cup freshly grated Parmesan cheese
+ 1 cup freshly grated Parmesan cheese
 
- ¼ small red onion, very thinly sliced
+ 1/2 small red onion, very thinly sliced
 
 Green Goddess Dressing
 
- ½ cup mayonnaise
+ 1 cup mayonnaise
 
- ½ cup plain Greek yogurt (or sour cream)
+ 1 cup plain Greek yogurt (or sour cream)
 
- 1 cup fresh parsley, packed
+ 2 cup fresh parsley, packed
 
- ½ cup fresh basil, packed
+ 1 cup fresh basil, packed
 
- ¼ cup fresh chives
+ 1/2 cup fresh chives
 
- 2 anchovy fillets
+ 4 anchovy fillets
 
- 2 cloves garlic
+ 4 cloves garlic
 
- 2 tablespoons fresh lemon juice
+ 4 tablespoons fresh lemon juice
 
- 2 tablespoons olive oil
+ 4 tablespoons olive oil
 
- ½ teaspoon kosher salt (plus more to taste)
+ 1 teaspoon kosher salt (plus more to taste)
 
- ½ teaspoon black pepper
+ 1 teaspoon black pepper
 
- 1–3 tablespoons water (to thin)
+ 2-6 tablespoons water (to thin)
 
 <!-- List every ingredient -->
 Steps for preparation:
